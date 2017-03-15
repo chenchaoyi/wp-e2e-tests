@@ -8,7 +8,7 @@
   "startBrowserTimeoutMS": 30000,
   "startAppTimeoutMS": 240000,
   "afterHookTimeoutMS": 30000,
-  "browser": "chrome",
+  "browser": "firefox",
   "proxy": "direct",
   "saveAllScreenshots": false,
   "neverSaveScreenshots": false,
